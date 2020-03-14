@@ -8,13 +8,10 @@
   margin: 0 auto;
   line-height: 3rem;
   text-align: center;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 .p-btn-round, .p-btn-round-on-dark {
   border-radius: 50px;
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
   font-size: 1.1rem;
   font-weight: 400;
   margin-bottom: 0.25rem;

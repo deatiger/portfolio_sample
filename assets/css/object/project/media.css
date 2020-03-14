@@ -21,8 +21,6 @@
 }
 .p-media__profile img {
   background-position: center center;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
   border-radius: 50%;
   object-fit: cover;
   height: 156px;

@@ -84,7 +84,6 @@
 .l-header__nav-top {
   right: -86%;
   opacity: 0;
-  -webkit-transition: right 1.2s cubic-bezier(0.19, 1, 0.22, 1);
   transition: right 1.2s cubic-bezier(0.19, 1, 0.22, 1);
   overflow: hidden;
 }
