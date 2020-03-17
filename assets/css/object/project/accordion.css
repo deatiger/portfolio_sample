@@ -4,7 +4,7 @@
   flex-direction: row;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  width: 100%;
+width: 100%;
 }
 .p-accordion h4 {
   color: #444;
