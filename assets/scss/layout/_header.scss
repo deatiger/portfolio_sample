@@ -7,11 +7,6 @@
   position: relative;
   z-index: 100;
 
-  &::after {
-    clear: both;
-    content: '';
-    display: table
-  }
   .l-header-inner {
     padding-right: 32px;
     margin: 0 auto;
@@ -96,7 +91,6 @@
     font-weight: 300;
     letter-spacing: .01562rem;
     line-height: 1.375rem;
-    border-bottom: 2px solid transparent;
     display: inline-block;
     padding: 21px 0 19px;
     &:hover {
@@ -120,11 +114,6 @@
       margin-bottom: 0;
       position: relative;
       top: 1px;
-      &::after {
-        clear: both;
-        content: '';
-        display: table
-      }
     }
     li {
       display: inline-block;
