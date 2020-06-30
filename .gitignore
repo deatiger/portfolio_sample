@@ -1,5 +1,8 @@
 # Intellij IDEA files
 .idea/*
+portfolio_sample.iml
+public/browserconfig.xml
+public/site.webmanifest
 
 # Logs
 logs
@@ -9,10 +12,9 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 
-# Firebase cache
+# Firebase
 .firebase/
-
-# Firebase config
+.firebaserc
 
 # Uncomment this if you'd like others to create their own Firebase project.
 # For a team working on the same Firebase project(s), it is recommended to leave
